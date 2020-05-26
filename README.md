@@ -1,2 +1,1 @@
-# shreya
-tin dog project
+TinDog Starting Files
